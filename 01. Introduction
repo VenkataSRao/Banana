@@ -8,3 +8,4 @@ additional capabilities, including new panels that leverage D3.js.
 Data can be ingested into Solr through a variety of ways, including LogStash, Flume and other connectors.
 
 
+
